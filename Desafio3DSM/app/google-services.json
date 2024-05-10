@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1064115315625",
+    "firebase_url": "https://desa-8804d-default-rtdb.firebaseio.com",
+    "project_id": "desa-8804d",
+    "storage_bucket": "desa-8804d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064115315625:android:5fd5848009769a3b735ab8",
+        "android_client_info": {
+          "package_name": "com.example.desafio3dsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNQaCXutIWAiePLcM530vo_yVlClo6iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

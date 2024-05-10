@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecursosUDB</string>
+    <string name="recursos">Recursos disponibles: </string>
+    <string name="titulo">Titulo: </string>
+    <string name="descripcion">Descripcion: </string>
+    <string name="enlace">Enlace: </string>
+    <string name="imagen">Imagen: </string>"
+    <string name="tipo">Tipo: </string>"
+    <string name="detalles">Detalles del recurso:</string>
+</resources>
